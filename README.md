@@ -1,2 +1,2 @@
-# kunalkatarya.github.io
+# kunjzk.github.io/portfolio
 My personal website
